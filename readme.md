@@ -18,5 +18,19 @@ git commit -m "msg"
 git log
 
 ### git log
+git log --author="sam"  
+git shortlog  
+git log --graph  
+
+## Outros comandos
+git show  
+git diff  
+
+### git show
+git show 71bc6dc7 (8 digitos)  
+
+### git diff
+git diff --name-only
+
 
 https://www.udemy.com/git-e-github-para-iniciantes/learn/lecture/5120550#overview
